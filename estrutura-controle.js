@@ -1,15 +1,4 @@
-/*escreva("Digite o nome: ")
-leia(nome)
-escreval("Digite uma nota: ")
-leia(nota1)
-escreval("Digite outra nota: ")
-leia(nota2)
-media := (nota1 + nota2) /2
 
-se media >=6 entao
-escreval(" Voçê conseguiu sua nota é ", media , ", Parabéns!!!!!!")
-senao
-escreval("Que pena sua nota é ", media , " tente novamente")*/
 
 var nome, nota1, nota2, media;
 

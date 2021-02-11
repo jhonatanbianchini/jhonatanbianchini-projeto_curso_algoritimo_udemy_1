@@ -1,28 +1,4 @@
-/*valor1, valor2, resultado: real
-     operacao: caractere
 
-Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
-      escreval("Programa para calcular valores baseado na operação")
-      escreval("Digite o primeiro valor: ")
-      leia(valor1)
-      escreval("Digite a operação: Ex: +, -, *, /")
-      leia(operacao)
-      escreval("Digite o segundo valor: ")
-      leia(valor2)
-      
-      escolha operacao
-      caso "+"
-      resultado := valor1 + valor2
-      caso "-"
-      resultado := valor1 - valor2
-      caso "*"
-      resultado := valor1 * valor2
-      caso "/"
-      resultado := valor1 / valor2
-      fimescolha
-
-      escreval("O resultado é: ", resultado)*/
 
       var valor1, valor2, resultado, operacao
 
